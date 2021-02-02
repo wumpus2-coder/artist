@@ -1,0 +1,526 @@
+
+.theme-color,
+a.theme-color,
+a.theme-color:hover,
+a.theme-color:focus {
+    color: #FF6600 !important;
+}
+
+
+.nav-tabs > li > a {
+    border: 1px solid #FF6600;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus {
+    background-color: #FF6600 !important;
+    border: 1px solid #FF6600 !important;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover {
+    background: #FF6600;
+    border-color: #FF6600;
+}
+.loader-container > div {
+    background: #FF6600;
+}
+.input-custom:hover,
+.input-custom:focus,
+.input-custom.focus,
+.textarea-custom:hover,
+.textarea-custom:focus,
+.textarea-custom.focus {
+    border-color: #FF6600;
+}
+
+.label-box-wrap input[type=radio]:checked + label {
+    background-color: #FF6600;
+}
+
+.bootstrap-datetimepicker-widget .btn[data-action].btn-primary {
+    background-color: #FF6600 !important;
+}
+
+.add-btn,
+.remove-btn {
+    background-color: #FF6600;
+}
+
+.comment-form .input-custom:focus,
+.comment-form .textarea-custom:focus {
+    border-color: #FF6600;
+}
+
+.backToTop {
+    background:#FF6600;
+}
+
+.calendar__footer a {
+    color: #FF6600 !important;
+}
+
+.calendar th:hover,
+.calendar td:hover {
+    background-color: #FF6600;
+}
+.calendar .selected,
+.calendar .selected:hover {
+    background-color: #FF6600;
+}
+
+.tag {
+    border: 1px solid #FF6600;
+}
+.tag:hover {
+    background-color: #FF6600;
+    border-color: #FF6600;
+}
+
+.tags-list.tags-list--dark li a {
+    border: 1px solid #FF6600;
+}
+.tags-list.tags-list--dark li a:hover {
+    background-color: #FF6600;
+    border-color: #FF6600;
+}
+.tags-list:not(.tags-list--dark) li a {
+    border: 1px solid #FF6600;
+}
+.tags-list:not(.tags-list--dark) li a:hover {
+    background-color: #FF6600;
+    border-color: #FF6600;
+}
+
+.block-bg-10:before {
+    background-image: -webkit-gradient(linear, left top, right top, from(#328add), to(#FF6600));
+}
+
+
+header .header-search .search-form input[type="submit"] {
+    background: #FF6600;
+}
+
+.header-cart .badge {
+    background-color:#FF6600;
+}
+.header-cart-dropdown .prd-sm-info h3 a:hover {
+    color: #FF6600 !important;
+}
+
+@media (max-width: 1024px) {
+    .header .header-menu ul li a.opened {
+        color: #FF6600;
+    }
+}
+
+.awp-home-player .awp-icon-rollover-color,
+.awp-project-player .awp-icon-rollover-color{
+    color: #FF6600 !important;
+}
+
+.awp-volume-level:after {
+    background: #FF6600;
+}
+
+
+.awp-project-player .awp-download:hover,
+.awp-project-player .awp-link:hover {
+    color: #FF6600 !important;
+}
+
+.instagram-grid a:before {
+    background-image: -webkit-gradient(linear, left top, right top, from(#328add), to(#FF6600));
+}
+body:not(.page-blog) .block--darkbg .link-social a:hover,
+body.page-blog .block--darkbg.block--title .link-social a:hover,
+.pagination > li:not(.active) > a:hover,
+.pagination > li:not(.active) > span:hover,
+.category-list li:before,
+.category-list li:hover a,
+.marker-list li:after,
+.all-view,
+.all-view:hover,
+.table--services > tbody > tr > td b,
+.table--services > tbody > tr > th b,
+.phone-lg .icon,
+.quote:before,
+.blog-post-single .quote:before,
+.blog-grid .quote:before,
+.successform,
+.breadcrumbs a:hover,
+.calendar__header,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.calendar_wrap tbody th:hover,
+.calendar_wrap tfoot #prev a:hover,
+.calendar_wrap tfoot #next a:hover,
+.awp-preloader span,
+.block--darkbg .pagination > .active > a, .block--darkbg .pagination > .active > span, .block--darkbg .pagination > .active > a:hover, .block--darkbg .pagination > .active > span:hover,
+header .header-search a:hover,
+header .header-search a.open,
+.header-cart:hover a.icon,
+.header-cart.opened a.icon,
+.header-cart-dropdown .prd-sm-info .price,
+.footer-menu ul li a:hover,
+.footer-menu ul li.active a ,
+.footer-social a:hover,
+.footer-link a,
+.footer-info a,
+.footer-info .icon,
+.mainSlider .slick-prev:hover:before,
+.mainSlider .slick-next:hover:before,
+.awp-home-player .awp-icon-color:hover,
+.awp-project-player .awp-icon-color:hover,
+.awp-player-popup .awp-player-artist,
+.awp-project-player .awp-player-artist,
+.awp-project-player .awp-icon-color:hover,
+.tickerwrapper b,
+.studio-item-title span,
+.project-item-author,
+.project-grid-item-artist,
+.project-grid-item .link-social a:hover,
+.news-item-title a:hover,
+.reviews-slider .review-item-author-name,
+.reviews-slider-2 .review-item-author-name,
+.team-member-name a:hover,
+.link-icon-text .icon,
+.link-icon-text:hover,
+.team-member-social a:hover,
+.booking-link-price span,
+.instagram-grid-full > a .icon,
+.dark-box b,
+.service-item-title,
+.service-item-price b,
+.icn-txt-box:hover .icn-txt-box-icon .icon,
+.icn-txt a,
+.icn-txt a:hover,
+.icn-txt a:focus,
+.icn-txt-icon,
+.block--darkbg .icn-txt-icon,
+.block--darkbg .icn-txt a,
+.block--darkbg .icn-txt a:hover,
+.block--darkbg .icn-txt a:focus,
+.block--darkbg .icn-txt .link-social a:hover,
+.bg-grey .theme-color,
+.bg-grey-dark .theme-color,
+.timeline-item-date,
+.circle-list-md li::before,
+.circle-list li::before,
+.form-newsletter__btn .icon,
+.gallery-grid-item-artist,
+.gallery-grid-item .link-social a:hover,
+.price-box:hover .price-box-icon .icon,
+.price-box-price b,
+.price-box-title span,
+.blog-post .post-image .post-link:hover,
+.post-meta li .icon,
+.comment .meta-date,
+.slick-prev:hover:before,
+.slick-next:hover:before,
+.column-filters .category-list li a:hover,
+.prd-sm-delete,
+.rating .icon,
+.product-block-description table td:first-child span:before,
+body.page-blog .aside .side-block  ul:not(.wp-tag-cloud):not(.post-meta) li .icon,
+.count-add,
+.count-reduce,
+.tags-list .icon,
+.entry-content .team-member-social a:hover,
+.rs-btn-wrapper.btn-contact [class*='icon'],
+.slick-prev:hover .icon,
+.slick-prev:focus .icon,
+.slick-prev:active .icon,
+.slick-next:hover .icon,
+.slick-next:focus .icon,
+.slick-next:active .icon,
+.tt-theme__typography .icon,
+.footer-menu ul li.current-menu-item a,
+body.page-blog .block--darkbg .aside > *:not(.blog-post-single) a.comment-reply-link,
+.comment-awaiting-moderation,
+#cancel-comment-reply-link,
+body:not(.page-blog) .block--darkbg .four-zero-page-area h2,
+.block.block--darkbg .quote:before,
+.btn [class*='icon'],
+.footer-social a:hover .icon,
+button.close:hover .icon,button.close:active .icon,
+.cd-words-wrapper,
+.price-box-price .price-symbol,
+.service-item-price .price-symbol,
+.btn.btn--no--border:hover [class*='icon'], .btn.btn--no--border.active [class*='icon'], .btn.btn--no--border:active [class*='icon'],
+.gallery-grid-item > * > .gallery-grid-item-title .icon,
+.gallery-grid-item-title .icon,
+.prd .prd-info .price del + ins .amount,.prd-sm .prd-sm-info .price del + ins .amount,
+.woocommerce .simple-pagination nav.woocommerce-pagination ul li span.current,
+.woocommerce .simple-pagination nav.woocommerce-pagination ul li a:hover,
+.aside .side-block ul li::before,
+.block--darkbg .site-main .search-form .search-submit,.widget-area .side-block .search-form .search-submit,.comment-reply-link,
+body .aside .side-block ul:not(.wp-tag-cloud) li a:hover,
+.header-search .search-form button.search-submit,
+.header-search .search-form button.search-submit:hover,
+.awp-player button.close:hover,
+.awp-player-popup .mfp-close:hover,
+.simple-filter.filter-reset li.active,
+.woocommerce-info::before,
+.woocommerce a.added_to_cart,
+.price del + ins .amount,
+.woocommerce .star-rating::before,
+.woocommerce .star-rating span,
+.woocommerce p.stars a,
+.woocommerce-review-link:hover{
+    color:#FF6600;
+}
+
+.timeline-item:hover:before,
+.ch-pulse,
+.price-box--special .price-box-icon,
+.calendar_wrap #today, .calendar_wrap #today:hover,
+.comments-block .comment .text a.reply:hover,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.blog-post .post-date,
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover{
+    background-color: #FF6600;
+}
+.post-preview .post-title a:hover {
+    color: #FF6600 !important;
+}
+@media (min-width: 768px) {
+    .image-scale-color:after {
+        background: #FF6600;
+    }
+}
+.slick-dots li.slick-active button,
+.slick-dots li.slick-active button:hover {
+    background: #FF6600;
+}
+.noUi-horizontal .noUi-handle {
+    background: #FF6600;
+}
+.prd-sm-info h3 a:hover,
+.prd-info h3 a:hover {
+    color: #FF6600 !important;
+}
+
+.simple-pagination a.active, .simple-pagination a:hover{
+    border-color: #FF6600;
+}
+.woocommerce-error, .woocommerce-info, .woocommerce-message{
+    border-top-color:#FF6600
+}
+.simple-pagination a.pagination-arrow:hover {
+    color: #FF6600 !important;
+}
+
+.shop-cart .prd-title a:hover,
+.shop-cart .prd-remove,
+.block--darkbg .pagination > li.tt-link-arrow:hover > a,
+.theme-color-1{
+    color: #FF6600 !important;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover,
+button.active,
+input[type="button"]:active,
+input[type="submit"]:active{
+    background:linear-gradient(270deg, #FF6600 0%, #7B16D9 100%);
+    border:transparent;
+}
+
+
+header .header-search .search-form button.search-submit{
+    background: #FF6600;
+}
+@media (min-width: 1025px){
+    .header .header-menu .menu > li.current-menu-item > a{
+        color:#FF6600;
+    }
+}
+
+.block--darkbg .aside .side-block select{
+    border:2px solid #FF6600;
+}
+
+.wp-tag-cloud li a:hover, .side-block .tagcloud a:hover, .post-categories a:hover{
+    background-color: #FF6600;
+    border-color: #FF6600;
+}
+.post-password-form input[type="submit"]:hover,
+.post-password-form input[type="submit"].active,
+.post-password-form input[type="submit"]:active {
+    background-color: #FF6600;
+    border:2px solid #FF6600;
+}
+
+.post-categories:not(.tags-list--dark) li a:hover {
+    background-color: #FF6600;
+    border-color: #FF6600;
+}
+
+.awp-player-popup .awp-waveform-img-progress-wrap,.awp-project-player .awp-waveform-img-progress-wrap {
+    border-right: 3px solid #FF6600;
+}
+
+
+html:not(.ie) .h-gradient{
+    background:linear-gradient(to left, #FF6600 0%, #7B16D9 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.txt-gradient {
+    background:-webkit-linear-gradient(right, #FF6600, #7B16D9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.form-popup:before,.price-box-price:before{
+    transform: rotate(-180deg);
+}
+
+.form-popup:before,
+.btn--fill,.btn--fill:hover,.btn--fill:focus,
+.btn--border:before,
+.ch-separator:after,
+.awp-volume-level,
+.btn--white:hover,
+.btn--white:focus,
+.btn--white:active,
+.booking-link:hover:before,
+.heading.heading-separator span:after,
+.btn--border1,
+.timeline-left .timeline-item:before,
+.price-box-price:before,
+.filtr-row li.active span::after,
+.simple-filter li.active span::after,
+.filtr-row li:hover span::after,
+.simple-filter li:hover span::after,
+.header .menu > li.current-menu-item > a::after,
+.header .menu > li > a:hover::after,
+.header-cart a.button, .woocommerce .woocommerce-message .button,
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button,
+
+.woocommerce div.product form.cart .button,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a::after,
+.woocommerce div.product .woocommerce-tabs ul.tabs li:hover a::after{
+    background: linear-gradient(270deg, #FF6600 0%, #7B16D9 100%);
+}
+.quote:before{
+    background: linear-gradient(to top, #FF6600 0%, #7B16D9 100%);
+}
+.news-item-photo:before,
+.block-border-gradient:before,
+.team-member-text:before,
+.timeline-right .timeline-item:before,
+.timeline:before,
+.prd  .prd-img .onsale,
+.woocommerce .tt-single-product__image span.onsale{
+    background-image: -webkit-gradient(linear, left top, right top, from(#FF6600), to(#7B16D9));
+    background-image:linear-gradient(to right, #FF6600 0%, #7B16D9 100%);
+}
+
+.mCS-records.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+.ch-separator:after{
+    background: linear-gradient(to top, #FF6600 0%, #7B16D9 100%);
+}
+.mCS-records.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{
+    background: linear-gradient(to bottom, #FF6600 0%, #7B16D9 100%);
+}
+
+
+
+@-webkit-keyframes load {
+  0%,
+  100% {
+    -webkit-transform: scaleY(1);
+    background: #7B16D9;
+  }
+  16.67% {
+    -webkit-transform: scaleY(3);
+    background: #d916c1;
+  }
+  33.33% {
+    -webkit-transform: scaleY(1);
+    background: #378ed6;
+  }
+  50% {
+    -webkit-transform: scaleY(3);
+    background: #d54c45;
+  }
+  66.67% {
+    -webkit-transform: scaleY(1);
+    background: #d54d44;
+  }
+  83.34% {
+    -webkit-transform: scaleY(3);
+    background: #FF6600;
+  }
+}
+@keyframes load {
+  0%,
+  100% {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+    background: #7B16D9;
+  }
+  16.67% {
+    -webkit-transform: scaleY(3);
+            transform: scaleY(3);
+    background: #d916c1;
+  }
+  33.33% {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+    background: #378ed6;
+  }
+  50% {
+    -webkit-transform: scaleY(3);
+            transform: scaleY(3);
+    background: #d54c45;
+  }
+  66.67% {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+    background: #d54d44;
+  }
+  83.34% {
+    -webkit-transform: scaleY(3);
+            transform: scaleY(3);
+    background: #FF6600;
+  }
+}
+
+.ch-pulse {
+    box-shadow: 0 0 0 rgb(218, 176, 113);
+}
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgb(218, 176, 113);
+  }
+  70% {
+      -webkit-box-shadow: 0 0 0 20px rgba(204,169,44, 0);
+  }
+  100% {
+      -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+  }
+}
+@keyframes pulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 rgb(218, 176, 113);
+    box-shadow: 0 0 0 0 rgb(218, 176, 113);
+  }
+  70% {
+      -moz-box-shadow: 0 0 0 20px rgba(204,169,44, 0);
+      box-shadow: 0 0 0 20px rgba(204,169,44, 0);
+  }
+  100% {
+      -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+      box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+  }
+}
